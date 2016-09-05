@@ -2,6 +2,8 @@
 
 **Trying to help out, until native Sketch arrows improve**
 
+_Version 1.0 - Sketch file last updated June 27, 2015_
+
 We all know that the arrowhead styling, on native lines in Sketch app, needs improvement.
 
 This free download was created with the goal of helping out Sketch users by offering a selection of pre-built common arrowhead shapes. These hand-tooled vector arrow objects have been designed for flexibility:
