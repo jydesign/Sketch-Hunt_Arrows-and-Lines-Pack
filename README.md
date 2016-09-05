@@ -11,3 +11,9 @@ This free download was created with the goal of helping out Sketch users by offe
 - All elements were created and arranged using whole-pixel values, for easy scaling
 - Lines are separate from arrowheads, for ease in extending and editing
 - Bonus elements: stylized arrows for diagrams; pre-built dotted and dashed lines styles
+
+_Preview of artwork elements:_
+![alt tag](http://sketchhunt.com/wp-content/uploads/2015/06/Arrow-and-Lines-artboard-v1.0.png)
+
+_Preview of the artboard and layer group structure in actual Sketch file:_
+![alt tag](http://sketchhunt.com/wp-content/uploads/2015/06/arrow-lines-sketchapp-preview-1024x262.png)
