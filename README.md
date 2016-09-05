@@ -12,7 +12,7 @@ This free download was created with the goal of helping out Sketch users by offe
 - Lines are separate from arrowheads, for ease in extending and editing
 - Bonus elements: stylized arrows for diagrams; pre-built dotted and dashed lines styles
 
-[**_Download Sketch Hunt Arrows and Lines Pack_**] (https://github.com/jydesign/Sketch-Hunt_Arrows-and-Lines-Pack/blob/master/sketchhunt_arrows-and-lines_pack_v1.0.sketch)
+[**_Download Sketch Hunt Arrows and Lines Pack_**] (https://github.com/jydesign/Sketch-Hunt_Arrows-and-Lines-Pack/blob/master/sketchhunt_arrows-and-lines_pack_v1.0.sketch?raw=true)
 
 _Preview of artwork elements:_
 ![alt tag](http://sketchhunt.com/wp-content/uploads/2015/06/Arrow-and-Lines-artboard-v1.0.png)
