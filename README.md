@@ -1,4 +1,4 @@
-# Sketch-Hunt_Arrows-and-Lines-Pack
+# Sketch Hunt Arrows and Lines Pack
 
 **Trying to help out, until native Sketch arrows improve**
 
