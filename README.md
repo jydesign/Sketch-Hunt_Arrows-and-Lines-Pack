@@ -2,7 +2,7 @@
 
 **New Version 2 with Resizable Sketch Symbols & Craft Color Styles**
 
-_Version 2.0 – last updated September 5, 2016_
+_Version 2.0 – last updated September 6, 2016 8:40p ET_
 
 Version 2 of our Arrows and Lines Pack is here! As we’ve said before, arrowhead styling on native lines in Sketch app needs improvement. We’ve updated our popular kit to take advantage of Sketch app 39.x scalable symbols. In addition, when paired with the InVision Craft plugin, you can easily update the color of all elements via the Styles artboard.
 
