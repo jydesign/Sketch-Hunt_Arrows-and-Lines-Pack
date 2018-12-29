@@ -20,10 +20,7 @@ This free download was created with the goal of helping out Sketch users by offe
 [**_DOWNLOAD Sketch Hunt Arrows and Lines Pack v2_**](https://github.com/jydesign/Sketch-Hunt_Arrows-and-Lines-Pack/blob/master/sketchhunt_arrows-and-lines_pack_v2.sketch?raw=true)
 
 _Preview of artwork elements:_
-![alt tag](http://sketchhunt.com/wp-content/uploads/2015/06/Arrows-and-Lines-v2-preview.png)
+![alt tag](https://cdn-images-1.medium.com/max/800/0*gJDdBndc13tG2br0.png)
 
 _Preview of the artboard and layer group structure in actual Sketch file:_
-![alt tag](http://sketchhunt.com/wp-content/uploads/2015/06/Arrows-and-Lines-v2-symbols.png)
-
-_Preview of Craft Color Styles – Just Change the Artwork Color and Sync:_
-![alt tag](http://sketchhunt.com/wp-content/uploads/2015/06/Arrows-and-Lines-v2-Craft-color-styles.png)
+![alt tag](https://cdn-images-1.medium.com/max/800/0*oGruYenZQIVEjcLo.png)
